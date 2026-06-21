@@ -37,6 +37,7 @@ duration VARCHAR(500),
 listed_in VARCHAR(500),
 description VARCHAR(500)
 )
+```
 
 ## Business Problems and Solutions
 
